@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alex Farhood
 - 👀 Sports, Music, Mindfulness and Cooking
-- 🌱 I’m currently learning C#, C++, Java, Python, CSS and HTML
+- 🧠 I’m proficient in C#, C++, Java, Python, CSS and HTML
+- 🌱 I'm currently learning Python
 - 📫 How to reach me @alexander.farhood@gmail.com
 
 <!---
